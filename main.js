@@ -217,7 +217,7 @@ function startscreen() {
     for (var i = 0; i < 2; i += 1) 
         new Asteroid(world, randint(50, 100), 2);
 
-    world.add_text('ARGH ITS THE MATTY', 20);
+    world.add_text('ARGH ITS THE MATTY',20);
     world.add_text('PRESS LEFT AND RIGHT TO ROTATE') 
     world.add_text('PRESS UP FOR THRUST')
     world.add_text('PRESS SPACE FOR FIRE')
