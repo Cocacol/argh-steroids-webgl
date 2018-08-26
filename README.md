@@ -4,7 +4,7 @@ Asteroids-like game using webgl. Audio by Martin Pixberg, programming by John
 Cupitt. 
 
 You can play the game on the [github pages for this
-repository](http://jcupitt.github.io/argh-steroids-webgl), or alternatively
+repository](http://cocacol.github.io/argh-steroids-webgl), or alternatively
 there's a [version in pygame](https://github.com/jcupitt/argh-steroids)
 as well.
 
